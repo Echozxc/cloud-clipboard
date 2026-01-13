@@ -1,0 +1,9 @@
+name = "cloud-clipboard"
+main = "worker.js"
+compatibility_date = "2026-01-01"
+
+[[kv_namespaces]]
+binding = "PASTE_KV"
+
+[vars]
+ADMIN_PASSWORD = "admin"
