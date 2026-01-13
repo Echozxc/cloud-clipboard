@@ -6,6 +6,10 @@
 
 [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/Echozxc/Cloud-Clipboard)
 
+### 主页预览:
+
+![](index.png)
+
 ---
 
 ## ✨ 核心特性
@@ -21,7 +25,7 @@
     - **三步清除云端**：右上角管理员清除功能（风险警告 -> 密码校验 -> 最终确认），防止误删。
     - **彻底清理逻辑**：引入分页递归清理，确保成千上万条记录也能一键物理抹除。
     - **防误触系统**：清空标题、清空正文、清空历史等敏感操作均设有二次确认弹窗。
-- **📱 响应式适配**：深度优化移动端体验，彻底解决 URL 框溢出及按钮遮挡问题。
+- **📱 响应式适配**：深度优化移动端体验，解决 URL 框溢出及按钮遮挡问题。
 
 ---
 
